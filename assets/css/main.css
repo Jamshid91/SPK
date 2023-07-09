@@ -361,7 +361,7 @@ input, textarea, select, button {
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
-  top: 90%;
+  top: 85%;
   background: transparent;
   display: none;
 }
@@ -1412,7 +1412,7 @@ input, textarea, select, button {
             transform: translateX(-50%);
   }
   .header-search .search-result {
-    top: 11%;
+    top: 13%;
     width: 80%;
     left: 50%;
     -webkit-transform: translateX(-50%);
